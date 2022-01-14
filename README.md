@@ -1,4 +1,4 @@
-# DiscordBot-Cog-HotReload
+# DiscordBot-HotReload
 
 A simple script that loads and hot-reloads cogs when you save any changes
 
